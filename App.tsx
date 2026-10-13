@@ -178,7 +178,7 @@ Formato limpio y directo con emojis.`
 - Demostración en pantalla / Reacción visual rápida.
 
 🚀 LLAMADO A LA ACCIÓN (0:40 - 0:50):
-"¿Qué opínas de esto? Déjalo en los comentarios y sígueme para más contenido gamer daily!"`);
+"¿Qué opinas de esto? Déjalo en los comentarios y sígueme para más contenido gamer daily!"`);
   };
 
   // Copiar guión generado
