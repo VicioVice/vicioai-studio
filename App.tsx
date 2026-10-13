@@ -23,7 +23,7 @@ interface Task {
   tag: string;
 }
 
-export function App() {
+export default function App() {
   const [activeTab, setActiveTab] = useState<'kanban' | 'generator'>('kanban');
   const [isNewVideoOpen, setIsNewVideoOpen] = useState(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
